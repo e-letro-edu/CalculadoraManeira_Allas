@@ -1,0 +1,8 @@
+/* style.css */
+
+/* Se quiser ajustar algo além dos utilitários do Bootstrap */
+
+/* Exemplo: aumentar um pouco o espaçamento no resultado */
+#resultado {
+  font-size: 1.25rem;
+}
