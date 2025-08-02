@@ -1,2 +1,3 @@
 # CalculadoraManeira_Allas
-Calculadora - Maneira
+Calculadora - Maneira super Bacana feita em python
+
